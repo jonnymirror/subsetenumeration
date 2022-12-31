@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subsetenumeration", "subsetenumeration\subsetenumeration.vcxproj", "{89A8A535-6664-48D1-ACE4-2E384781239F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Debug|x64.ActiveCfg = Debug|x64
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Debug|x64.Build.0 = Debug|x64
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Debug|x86.ActiveCfg = Debug|Win32
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Debug|x86.Build.0 = Debug|Win32
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Release|x64.ActiveCfg = Release|x64
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Release|x64.Build.0 = Release|x64
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Release|x86.ActiveCfg = Release|Win32
+		{89A8A535-6664-48D1-ACE4-2E384781239F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC6E69D-6BED-4B70-954F-37EEC89A68F8}
+	EndGlobalSection
+EndGlobal
